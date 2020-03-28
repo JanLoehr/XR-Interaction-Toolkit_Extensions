@@ -9,7 +9,7 @@ There is one adjustment to make in the XR Interaction Toolkit package.
 
 Search for the XRController.cs file. Add "protected" in the two marked lines. This is necessary for the my scripts to hook into XR Interaction Toolkit.
 
-
+![alt text](https://github.com/JanLoehr/XR-Interaction-Toolkit_Extensions/blob/master/x_ReadmeSources/TeleportationAdjustments.png "XR Interaction Toolkit Adjustments")
 
 If you find this usefull and woulkd like to support be, feel free to buy me a coffee =)
 
