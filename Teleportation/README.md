@@ -7,7 +7,7 @@ Teleportation can be canceled by pressing the stick.
 
 There is one adjustment to make in the XR Interaction Toolkit package.
 
-Search for the XRController.cs file. Add "protected" in the two marked lines. This is necessary for the my scripts to hook into XR Interaction Toolkit.
+Search for the XRController.cs file (also in packages, that's where you'll find it). Add "protected" in the two marked lines. This is necessary for the my scripts to hook into XR Interaction Toolkit.
 
 ![alt text](https://github.com/JanLoehr/XR-Interaction-Toolkit_Extensions/blob/master/x_ReadmeSources/TeleportationAdjustments.png "XR Interaction Toolkit Adjustments")
 
