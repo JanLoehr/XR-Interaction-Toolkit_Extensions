@@ -1,15 +1,19 @@
-This is an extension to the Locomotion System.
+# This is an extension to the Locomotion System.
 
 Teleporting is pretty basic in th XR Interaction Toolkit. With this scripts you'll be able to implement an Oculus Style Teleportation Flow.
+
+## How it works
 
 Push the stick on your controller forward -> Rotate to chose the direction to look in after teleporting -> Release the stick.
 Teleportation can be canceled by pressing the stick.
 
-To see it working, drag the sample rig into your scene and put a "XRDirectionTeleportationArea" component on an object with a collider in your scene.
+To see it working, drag the sample rig into your scene and put a **"XRDirectionTeleportationArea"** component on an object with a collider in your scene.
 
 ![alt text](http://www.jan-loehr.de/wp-content/uploads/2020/03/Rhn6iorft2.gif "Directed Teleporting")
 
-There is one adjustment to make in the XR Interaction Toolkit package.
+## XR Interaction Toolkit Adjustments
+
+There is one adjustment to make in the XR Interaction Toolkit package. If you want it to stick, you have to copy the packages content into your assets folder and remove the package.
 
 Search for the XRController.cs file (also in packages, that's where you'll find it). Add "protected" in the two marked lines. This is necessary for the my scripts to hook into XR Interaction Toolkit.
 
