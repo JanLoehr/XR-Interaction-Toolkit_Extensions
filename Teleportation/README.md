@@ -5,6 +5,8 @@ Teleporting is pretty basic in th XR Interaction Toolkit. With this scripts you'
 Push the stick on your controller forward -> Rotate to chose the direction to look in after teleporting -> Release the stick.
 Teleportation can be canceled by pressing the stick.
 
+To see it working, drag the sample rig into your scene and put a "XRDirectionTeleportationArea" component on an object with a collider in your scene.
+
 ![alt text](http://www.jan-loehr.de/wp-content/uploads/2020/03/Rhn6iorft2.gif "Directed Teleporting")
 
 There is one adjustment to make in the XR Interaction Toolkit package.
