@@ -16,6 +16,6 @@ I allways try to be as less intrusive in Unitys code as possible. Supporting as 
 ![Grab at contact point](http://www.jan-loehr.de/wp-content/uploads/2020/03/AttachAtContactPoint.gif "Grab at contact point")
 
 
-If you find this usefull and woulkd like to support be, feel free to buy me a coffee =)
+If you find this usefull and would like to support me, feel free to buy me a coffee =)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R31JY3V)
