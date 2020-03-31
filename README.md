@@ -8,7 +8,7 @@ I allways try to be as less intrusive in Unitys code as possible. Supporting as 
 
 [Better Teleportation](https://github.com/JanLoehr/XR-Interaction-Toolkit_Extensions/tree/master/Runtime/Teleportation)
 
-![alt text](http://www.jan-loehr.de/wp-content/uploads/2020/03/Rhn6iorft2.gif "Directed Teleporting")
+![alt text](http://www.jan-loehr.de/wp-content/uploads/2020/03/Teleportation.gif "Directed Teleporting")
 
 
 [Grab at contact point](https://github.com/JanLoehr/XR-Interaction-Toolkit_Extensions/blob/master/Runtime/Interaction/XRGrabPointInteractable.cs)
