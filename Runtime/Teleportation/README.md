@@ -9,7 +9,7 @@ Teleportation can be canceled by pressing the stick.
 
 To see it working, drag the sample rig into your scene and put a **"XRDirectionTeleportationArea"** component on an object with a collider in your scene.
 
-![Directed Teleporting](http://www.jan-loehr.de/wp-content/uploads/2020/03/Teleportation.gif "Directed Teleporting")
+![Directed Teleporting](http://www.jan-loehr.de/wp-content/uploads/2020/03/Teleportation.gif)
 
 ## XR Interaction Toolkit Adjustments
 
