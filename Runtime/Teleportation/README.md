@@ -19,6 +19,6 @@ Search for the XRController.cs file (also in packages, that's where you'll find 
 
 ![alt text](https://github.com/JanLoehr/XR-Interaction-Toolkit_Extensions/blob/master/x_ReadmeSources/TeleportationAdjustments.png "XR Interaction Toolkit Adjustments")
 
-If you find this usefull and woulkd like to support be, feel free to buy me a coffee =)
+If you find this usefull and would like to support me, feel free to buy me a coffee =)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R31JY3V)
