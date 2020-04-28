@@ -21,7 +21,7 @@ public class XRDirectionTeleportationArea : BaseTeleportationInteractable
     {
         foreach (var item in m_ReticleCache)
         {
-            XRController controller = item.Key.GetComponent<XRController>();
+            XRController_Extension controller = item.Key.GetComponent<XRController_Extension>();
 
             if (controller.inputDevice.TryGetFeatureValue(new InputFeatureUsage<Vector2>("Primary2DAxis"), out Vector2 value))
             {

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.XR;
 using UnityEngine.XR.Interaction.Toolkit;
 
-public class XRTeleportationController : XRController
+public class XRTeleportationController : XRController_Extension
 {
     [Header("Teleporting")]
 
